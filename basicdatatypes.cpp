@@ -21,4 +21,6 @@ int main() {
     std::string message = "Hello World";
     std::cout << message;
     return 0;
+    //Const keyword (makes a variable read-only)
+    const double PI = 3.14;
 }
